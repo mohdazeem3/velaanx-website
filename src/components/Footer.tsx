@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="w-10 h-10 rounded-full bg-cream flex items-center justify-center">
                 <Leaf className="w-6 h-6 text-forest-dark" />
               </div>
-              <span className="font-display text-2xl font-bold">FarmFresh</span>
+              <span className="font-display text-2xl font-bold">velaanX</span>
             </div>
             <p className="text-cream/70 mb-6">
               Connecting local farmers with communities. Fresh produce, 
